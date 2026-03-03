@@ -2,7 +2,7 @@
 
 CTO & Co-founder at **[@realtalk-ai](https://github.com/realtalk-ai)** — building full-stack AI voice infrastructure for telephony and the web.
 
-Based in Stockholm, Sweden.
+Based in Stockholm, Sweden. Mostly writing Python and Go.
 
 #### What I'm working on
 
