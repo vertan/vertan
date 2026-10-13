@@ -6,7 +6,7 @@ Based in Stockholm, Sweden. Mostly writing Python and Go.
 
 #### What I'm working on
 
-- 🔊 **[Real Talk](https://realtalk.ml/home)**: AI-powered phone agents for customer service. Natural conversations, zero wait times, 24/7.
+- 🔊 **[Real Talk](https://callrealtalk.com/)**: AI-powered phone agents for customer service. Natural conversations, zero wait times, 24/7.
 - 🛠️ Scaling voice AI infrastructure across real estate, e-commerce, and hospitality
 - 🧠 Currently deep in SIP infrastructure, training and optimizing TTS models, and low-latency voice pipelines
 
